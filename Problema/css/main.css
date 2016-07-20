@@ -1,0 +1,19 @@
+
+p {
+	border:2px;
+	margin: 10px;
+	border-style: dashed;
+	border-color: black;
+	text-align: center;
+	padding: 10px;
+	background-color: white; 
+}
+div {
+	margin: 20px;
+	border:20px 40px;
+	padding: 2px 4px 40px 60px;
+	border-style: solid;
+	border-color: #A615D5;
+	background-color: #f9cb9c; 
+	border-width: 20px 5px;
+}
